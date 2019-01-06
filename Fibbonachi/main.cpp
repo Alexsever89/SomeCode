@@ -3,6 +3,6 @@
 
 int main()
 {
-    std::cout << Fibb(16) << "\n";
+    std::cout << Fibb2(16) << "\n";
     return 0;
 }
